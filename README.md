@@ -1,2 +1,1 @@
-# 2025  하계 모각소
-TEAM cillUp
+# 2025  하계 모각소 _ TEAM chillUp
