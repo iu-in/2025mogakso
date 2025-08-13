@@ -87,3 +87,67 @@
   https://speechling.com  
 - Notion (학습 계획·자료 정리)  
   https://www.notion.so
+
+---
+## 📌 정보보호기사 필기 단원별 참고 자료 (실존 자료 버전)
+
+### 1. 시스템 보안
+- **운영체제 개요** (위키백과)  
+  https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C  
+- **Windows 보안 아키텍처** (Microsoft Docs)  
+  https://learn.microsoft.com/ko-kr/windows/security/  
+- **리눅스 보안 하드닝 가이드** (Red Hat)  
+  https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/security_hardening/  
+- **취약점 분석**  
+  - CVE Database: https://www.cve.org  
+  - NVD (National Vulnerability Database): https://nvd.nist.gov
+
+---
+
+### 2. 네트워크 보안
+- **네트워크 기초**  
+  - TCP/IP 프로토콜 설명 (Cloudflare)  
+    https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/  
+  - OSI 7계층 모델 (Imperva)  
+    https://www.imperva.com/learn/application-security/osi-model/
+- **방화벽 / IDS / IPS**  
+  - 방화벽 개념 및 종류 (Cisco)  
+    https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html  
+  - IDS와 IPS 차이 (GeeksforGeeks)  
+    https://www.geeksforgeeks.org/difference-between-ids-and-ips/
+
+---
+
+### 3. 암호학
+- **대칭/비대칭키 암호**  
+  - AES 암호 설명 (NIST) [PDF]  
+    https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf  
+  - RSA 암호 개념 (Cloudflare)  
+    https://www.cloudflare.com/learning/ssl/what-is-asymmetric-encryption/
+- **해시 함수**  
+  - SHA-256 설명 (MDN Web Docs)  
+    https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts  
+  - SHA-256 해시 생성기 (EMN178)  
+    https://emn178.github.io/online-tools/sha256.html
+- **전자서명**  
+  - 디지털 서명 개념 (Wikipedia)  
+    https://en.wikipedia.org/wiki/Digital_signature
+
+---
+
+### 4. 보안 관리
+- **ISMS-P 인증** (KISA)  
+  https://isms.kisa.or.kr/main/isms/intro/  
+- **개인정보보호법** (개인정보보호위원회)  
+  https://www.pipc.go.kr  
+- **법령 변경사항 확인** (국가법령정보센터)  
+  https://www.law.go.kr
+
+---
+
+### 5. 정보보안 일반 & 최신 동향
+- **정보보호 관리체계** (ISO/IEC 27001)  
+  https://www.iso.org/isoiec-27001-information-security.html  
+- **최근 보안 위협 사례**  
+  - MITRE ATT&CK Framework: https://attack.mitre.org  
+  - 보안뉴스: https://www.boannews.com
